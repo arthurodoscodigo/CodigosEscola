@@ -1,5 +1,4 @@
- 
-        body{
+body{
     margin:0;
     font-family:Arial, sans-serif;
     background:#f4f4f4;
@@ -55,4 +54,3 @@
   button:hover{
     background:#005fa3;
   }
-    
